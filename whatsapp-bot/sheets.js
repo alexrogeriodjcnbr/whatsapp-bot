@@ -1,0 +1,1 @@
+// sheets.js - Integração com Google Sheets

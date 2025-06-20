@@ -1,0 +1,1 @@
+// index.js - Código principal do bot

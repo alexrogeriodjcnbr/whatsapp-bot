@@ -1,0 +1,14 @@
+whatsapp-bot/
+├── index.js
+├── db.js
+├── sheets.js
+├── schedule.js
+├── .env.example
+├── package.json
+├── Dockerfile
+├── docker-compose.yml
+├── img/
+│   └── caneca.jpg
+├── audio/
+│   └── boasvindas.ogg
+├── README.md
