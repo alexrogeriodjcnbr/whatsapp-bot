@@ -1,0 +1,5 @@
+"bin": "index.js",
+"pkg": {
+  "scripts": "index.js",
+  "targets": ["node18-win-x64"]
+}
